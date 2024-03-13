@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3 align="center">A passionate Frontend Developer and UX Designer</h3>
+<h3 align="center">I'm a Frontend Developer and UX Designer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
